@@ -1,4 +1,3 @@
-# A Django Boilerplate using Bootstrap4 to get you started on any project.
 
 ## Installation
 
